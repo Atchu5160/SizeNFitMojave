@@ -2,9 +2,9 @@
   "name": "SizeNFitMojave",
   "version": "1.0.0",
   "summary": "SizeNFit Widget",
-  "swift_versions": "5.0",
+  "swift_versions": "5",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/sizenfit/SizeNFitMojave",
+  "homepage": "https://cocoapods.org",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -20,10 +20,12 @@
     "ios": "9.0"
   },
   "static_framework": true,
-  "vendored_frameworks": "SizeNFitMojave",
+  "ios": {
+    "vendored_frameworks": "SizeNFitMojave.framework"
+  },
   "frameworks": [
     "UIKit",
     "MapKit"
   ],
-  "swift_version": "5.0"
+  "swift_version": "5"
 }
