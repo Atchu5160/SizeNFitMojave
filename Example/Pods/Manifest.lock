@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+  - SizeNFitMojave (1.0.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+  - SizeNFitMojave (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  SizeNFitMojave:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SizeNFitMojave: 246a9adfb34432191f1d688ce1630f9cf4440a2c
+
+PODFILE CHECKSUM: a3e00dc82fadcb5454045fc812391d69e59a893c
+
+COCOAPODS: 1.7.2
