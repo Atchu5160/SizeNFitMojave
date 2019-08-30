@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SizeNFitMojave'
   s.version          = '1.0.2'
-  s.summary          = 'SizeNFit Widget'
+  s.summary          = 'SizeNFit Widget in Swift'
   s.swift_version    =  '5.0'
 
 # This description is used to generate tags and improve search results.
