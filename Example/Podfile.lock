@@ -1,7 +1,7 @@
 PODS:
   - Nimble (7.3.4)
   - Quick (1.2.0)
-  - SizeNFitMojave (1.0.0)
+  - SizeNFitMojave (1.0.3)
 
 DEPENDENCIES:
   - Nimble (~> 7.0)
