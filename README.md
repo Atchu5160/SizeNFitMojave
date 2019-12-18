@@ -1,7 +1,7 @@
 # SizeNFitMojave
 
 [![CI Status](https://img.shields.io/travis/sizenfit/SizeNFitMojave.svg?style=flat)](https://travis-ci.org/sizenfit/SizeNFitMojave)
-[![Version](https://cocoapod-badges.herokuapp.com/v/$PODNAME/badge.png)](https://cocoapods.org/pods/SizeNFitMojave)
+[![Version](https://cocoapod-badges.herokuapp.com/v/SizeNFitMojave/badge.png)](https://cocoapods.org/pods/SizeNFitMojave)
 [![License](https://img.shields.io/cocoapods/l/SizeNFitMojave.svg?style=flat)](https://cocoapods.org/pods/SizeNFitMojave)
 [![Platform](https://img.shields.io/cocoapods/p/SizeNFitMojave.svg?style=flat)](https://cocoapods.org/pods/SizeNFitMojave)
 
