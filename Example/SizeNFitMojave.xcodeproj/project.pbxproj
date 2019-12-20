@@ -332,6 +332,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 99D498BE6191BFE754810830 /* Pods-SizeNFitMojave_Tests.debug.xcconfig */;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -354,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 99345708687E6388AF6F0C74 /* Pods-SizeNFitMojave_Tests.release.xcconfig */;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
