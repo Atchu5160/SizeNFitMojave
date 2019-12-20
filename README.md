@@ -1,9 +1,9 @@
 # SizeNFitMojave
 
 [![CI Status](https://img.shields.io/travis/sizenfit/SizeNFitMojave.svg?style=flat)](https://travis-ci.org/sizenfit/SizeNFitMojave)
-[![Version](https://img.shields.io/cocoapods/v/SizeNFitMojave.svg?style=fla)](https://cocoapods.org/pods/SizeNFitCat)
-[![License](https://img.shields.io/cocoapods/l/SizeNFitMojave.svg?style=flat)](https://cocoapods.org/pods/SizeNFitCat)
-[![Platform](https://img.shields.io/cocoapods/p/SizeNFitMojave.svg?style=flat)](https://cocoapods.org/pods/SizeNFitCat)
+[![Version](https://img.shields.io/cocoapods/v/SizeNFitCatalina.svg?style=fla)](https://cocoapods.org/pods/SizeNFitCat)
+[![License](https://img.shields.io/cocoapods/l/SizeNFitCatalina.svg?style=flat)](https://cocoapods.org/pods/SizeNFitCat)
+[![Platform](https://img.shields.io/cocoapods/p/SizeNFitCatalina.svg?style=flat)](https://cocoapods.org/pods/SizeNFitCat)
 
 ## Example
 
