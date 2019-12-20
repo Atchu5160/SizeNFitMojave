@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SizeNFitCat'
-  s.version          = '1.0.4'
+  s.version          = '1.0.6'
   s.summary          = 'SizeNFit Widget in Swift'
   s.swift_version    =  '5.1.3'
 
