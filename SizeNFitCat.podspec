@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint SizeNFitMojave.podspec' to ensure this is a
+# Be sure to run `pod lib lint SizeNFitCat.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'SizeNFitMojave'
-  s.version          = '1.0.3'
+  s.name             = 'SizeNFitCat'
+  s.version          = '1.0.4'
   s.summary          = 'SizeNFit Widget in Swift'
   s.swift_version    =  '5.1.3'
 
@@ -44,3 +44,4 @@ s.homepage = 'https://github.com/sizenfit/SizeNFitMojave'
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
+

@@ -17,7 +17,7 @@ SizeNFitMojave is available through [CocoaPods](https://cocoapods.org). To insta
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SizeNFitMojave' , '~> 1.0.3'
+pod 'SizeNFitCat'
 ```
 
 ## Author

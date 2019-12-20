@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		05595BD9761915FFE77B333B /* Pods_SizeNFitMojave_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6887D7801E994D8A3782C6C /* Pods_SizeNFitMojave_Tests.framework */; };
+		601F969923ACA70E000B1AC8 /* SizeNFitCat.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 601F969823ACA70E000B1AC8 /* SizeNFitCat.podspec */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		57552C84146B6132F465639B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		601F969823ACA70E000B1AC8 /* SizeNFitCat.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = SizeNFitCat.podspec; path = ../SizeNFitCat.podspec; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* SizeNFitMojave_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SizeNFitMojave_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
@@ -20,7 +22,6 @@
 		99D498BE6191BFE754810830 /* Pods-SizeNFitMojave_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SizeNFitMojave_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SizeNFitMojave_Tests/Pods-SizeNFitMojave_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A3A87E833682C7E5CECB6C12 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E6887D7801E994D8A3782C6C /* Pods_SizeNFitMojave_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SizeNFitMojave_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E8AF9C4EEB6D46D9E58F78A5 /* SizeNFitMojave.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SizeNFitMojave.podspec; path = ../SizeNFitMojave.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +75,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				E8AF9C4EEB6D46D9E58F78A5 /* SizeNFitMojave.podspec */,
+				601F969823ACA70E000B1AC8 /* SizeNFitCat.podspec */,
 				A3A87E833682C7E5CECB6C12 /* README.md */,
 				57552C84146B6132F465639B /* LICENSE */,
 			);
@@ -161,6 +162,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				601F969923ACA70E000B1AC8 /* SizeNFitCat.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
